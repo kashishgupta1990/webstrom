@@ -1,6 +1,6 @@
 function DoubleMyNumber(num) {
     function doubLogic(data) {
-        return data * 2;
+                 return data * 2;
     }
     return doubLogic(num);
 }
